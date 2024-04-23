@@ -1,0 +1,9 @@
+﻿  dijkstra project.cpp
+C:\Users\mmego\source\repos\dijkstra project\dijkstra project\dijkstra project.cpp(247,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mmego\source\repos\dijkstra project\dijkstra project\dijkstra project.cpp(247,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  0 of 196 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  dijkstra project.vcxproj -> C:\Users\mmego\source\repos\dijkstra project\x64\Release\dijkstra project.exe
